@@ -1,75 +1,44 @@
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-dadhich&layout=compact&theme=radical&hide=html,css&langs_count=6" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=umang-dadhich&theme=radical&hide_border=false" />
-</p>
-
-## 🏆 Profile Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umang-dadhich&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
-## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
-
 <h1 align="center">Hi 👋, I'm Umang Dadhich</h1>
 
 <p align="center">
   <b>A Data Analyst & ML Enthusiast leveraging AI to solve real-world problems</b><br>
-  📍 Jaipur, Rajasthan | 📧 umangdadhich1332003@gmail.com | 🔗 <a href="https://www.linkedin.com/in/umangdadhich">LinkedIn</a>
+  📍 Jaipur, Rajasthan &nbsp;|&nbsp; 📧 umangdadhich1332003@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/umangdadhich">🔗 LinkedIn</a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🎓 Final-year B.Tech student in **Electronics and Communication Engineering** at **Birla Institute of Technology, Mesra**.
+🎓 Final-year B.Tech student in **Electronics and Communication Engineering** at **Birla Institute of Technology, Mesra**.  
+💼 1+ year of experience in data analytics, machine learning, and business intelligence with expertise in:
 
-💼 1+ year of experience in data analytics, ML, and business intelligence with expertise in:
-- Fraud detection and financial modeling
-- Predictive analytics, NLP, and automation
-- Dashboarding and decision intelligence using Power BI
+- Fraud detection and financial modeling  
+- Predictive analytics, NLP, and automation  
+- Dashboarding and decision intelligence using Power BI  
 
 🚀 Passionate about transforming raw data into strategic insights.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills
 
-**Languages**  
+### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Libraries**  
+### 📦 Tools & Libraries  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Data Analysis**  
+### 📊 Data Analysis  
 - Exploratory Data Analysis (EDA)  
 - Statistical Analysis  
 - Time Series Forecasting  
 - Microsoft Excel
 
-**Data Visualization & BI**  
+### 📈 Data Visualization & BI  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
@@ -77,11 +46,27 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-dadhich&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Languages" />
 </p>
 
-> 💡 *Most used languages are based on your code files. Add Python & SQL files in public repos to reflect this accurately.*
+> 💡 *Language stats reflect public repo contributions. Add Python/SQL projects to optimize display.*
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=umang-dadhich&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umang-dadhich&theme=radical&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
 
 ---
 
@@ -127,7 +112,7 @@
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements
 
 - 🥇 **NFAT 2024** – Merit Rank 72  
 - 🎯 Senior Coordinator – Cavorts Sports Fest  
@@ -139,9 +124,9 @@
 ## 🌐 Let's Connect
 
 - 📧 Email: umangdadhich1332003@gmail.com  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/umangdadhich)  
-- 🚧 Portfolio: *Coming soon*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/umangdadhich)  
+- 🌍 Portfolio: *Coming soon*
 
 ---
 
-> “Turning raw data into smart decisions – one line of code at a time.”
+> _“Turning raw data into smart decisions – one line of code at a time.”_
