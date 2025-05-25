@@ -13,22 +13,12 @@
 
 💼 I have **1+ year of hands-on experience** in data analytics, machine learning, and business intelligence. I specialize in:
 
-- Fraud detection & financial modeling
-- Predictive analytics and automation
-- NLP & web scraping
-- Power BI dashboards & Python-based data solutions
+- Fraud detection & financial modeling  
+- Predictive analytics and automation  
+- NLP & web scraping  
+- Power BI dashboards & Python-based data solutions  
 
 🚀 Passionate about combining analytics, automation, and visualization to drive data-driven decision-making and real-world impact.
-
----
-
-## 🛠️ Skills & Tools
-
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Selenium, BeautifulSoup  
-**BI & Visualization:** Power BI, Microsoft Excel  
-**Tech Domains:** EDA, Forecasting, NLP, Time Series Analysis, Feature Engineering  
-**Others:** Web Scraping, Automation, ML Pipelines
 
 ---
 
@@ -51,6 +41,26 @@
 - 🕸️ Automated scraping pipelines (BeautifulSoup, Scrapy), accelerating extraction by 40%
 - 📉 Reduced data runtime by 30% through optimized workflows
 - ✍️ Created content metric tools (FOG Index, Sentiment Scores) for continuous quality monitoring
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Libraries & Tools:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data Analysis:**  
+Exploratory Data Analysis (EDA), Statistical Analysis, Time Series Forecasting, Microsoft Excel
+
+**Data Visualization & BI:**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -87,7 +97,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UmangDadhich&show_icons=true&theme=radical" alt="Umang's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDadhich&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmangDadhich&layout=compact&theme=radical&langs_count=10&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
