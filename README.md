@@ -1,3 +1,6 @@
+![Umang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&theme=radical)
+
+
 <h1 align="center">Hi 👋, I'm Umang Dadhich</h1>
 
 <p align="center">
