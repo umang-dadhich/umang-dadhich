@@ -1,4 +1,32 @@
-![Umang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-dadhich&layout=compact&theme=radical&hide=html,css&langs_count=6" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=umang-dadhich&theme=radical&hide_border=false" />
+</p>
+
+## 🏆 Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umang-dadhich&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 
 <h1 align="center">Hi 👋, I'm Umang Dadhich</h1>
