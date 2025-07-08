@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>A Data Analyst & ML Enthusiast leveraging AI to solve real-world problems</b><br>
-  📍 Jaipur, Rajasthan &nbsp;|&nbsp; 📧 umangdadhich1332003@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/umangdadhich">🔗 LinkedIn</a>
+  📍 Jaipur, Rajasthan &nbsp;|&nbsp; 📧 umangdadhich1332003@gmail.com &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/umangdadhich20/">🔗 LinkedIn</a>
 </p>
 
 ---
