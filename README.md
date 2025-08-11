@@ -43,14 +43,14 @@
 
 ---
 
-## 📊 GitHub Stats (Updated 2025)
+## 📊 GitHub Stats (Updated 2025, Self-Hosted on Vercel)
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-three-alpha-71.vercel.app/api?username=umang-dadhich&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-dadhich&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-alpha-71.vercel.app/api/top-langs/?username=umang-dadhich&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Languages" />
 </p>
 
 <p align="center">
