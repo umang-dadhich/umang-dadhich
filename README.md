@@ -50,8 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-dadhich&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Languages" />
 </p>
 
-> 💡 *Language stats reflect public repo contributions. Add Python/SQL projects to optimize display.*
-
 ---
 
 ## 🔥 GitHub Streak
@@ -70,25 +68,16 @@
 
 ---
 
-## 💼 Experience Highlights
+## 🚀 Recent Contributions
 
-### 🧩 Data Champion Associate – DeepThought  
-*Aug 2025 – Dec 2025 | Hybrid*  
-- Reduced CAC thresholds by 15% for D2C brands  
-- Built profitability simulators & Power BI dashboards  
-- Enabled faster decision-making with real-time analytics
+- **[Google Calendar Clone](https://github.com/umang-dadhich/Google-Calendar-Clone)** – *PHP* – 7 commits in August 2025  
+- **[Ice Watch AI](https://github.com/umang-dadhich/ice-watch-ai)** – *TypeScript* – Built with @lovable-dev[bot] *(Aug 8, 2025)*  
+- **[Google Calendar Clone](https://github.com/umang-dadhich/Google-Calendar-Clone)** – *PHP* – Major update *(Aug 5, 2025)*  
+- **[Autonity Tiber Challenge](https://github.com/autonity/tiber-challenge)** – Opened my first issue *(Aug 7, 2025)* 🎉  
+- **[YouTube Recommendation System](https://github.com/umang-dadhich/Youtube-Recommendation-System)** – *Jupyter Notebook* – 4 commits *(Jul 8, 2025)*  
+- **[Bharat Warehouse AI Pilot](https://github.com/umang-dadhich/bharat-warehouse-ai-pilot)** – *TypeScript* – Initial build *(Jul 6, 2025)*  
 
-### 🔍 Data & ML Intern – Accredian  
-*Jul 2024 – Dec 2024 | Remote*  
-- Built fraud detection models on 6M+ transactions (AUC: 0.92)  
-- Enhanced model robustness by 20% via preprocessing  
-- Delivered actionable fraud policies & analytics
-
-### 🧪 ML Intern – Blackcoffer  
-*Mar 2024 – Jun 2024 | Remote*  
-- Automated web scraping pipelines (40% faster)  
-- Reduced processing time using optimized NumPy/Pandas flows  
-- Developed evaluation metrics using NLP
+📌 *View more activity on my [GitHub contributions graph](https://github.com/umang-dadhich)*
 
 ---
 
