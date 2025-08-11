@@ -43,11 +43,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Updated 2025)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=umang-dadhich&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang-dadhich&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contributions Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umang-dadhich&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- GitHub Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umang-dadhich&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -68,13 +81,13 @@
 
 ---
 
-## 🚀 Recent Contributions
+## 🚀 Recent Contributions (2025)
 
-- **[Google Calendar Clone](https://github.com/umang-dadhich/Google-Calendar-Clone)** – *PHP* – 7 commits in August 2025  
+- **[Google Calendar Clone](https://github.com/umang-dadhich/Google-Calendar-Clone)** – *PHP* – **7 commits** *(Aug 2025)*  
 - **[Ice Watch AI](https://github.com/umang-dadhich/ice-watch-ai)** – *TypeScript* – Built with @lovable-dev[bot] *(Aug 8, 2025)*  
 - **[Google Calendar Clone](https://github.com/umang-dadhich/Google-Calendar-Clone)** – *PHP* – Major update *(Aug 5, 2025)*  
-- **[Autonity Tiber Challenge](https://github.com/autonity/tiber-challenge)** – Opened my first issue *(Aug 7, 2025)* 🎉  
-- **[YouTube Recommendation System](https://github.com/umang-dadhich/Youtube-Recommendation-System)** – *Jupyter Notebook* – 4 commits *(Jul 8, 2025)*  
+- **[Autonity Tiber Challenge](https://github.com/autonity/tiber-challenge)** – Opened my **first issue** *(Aug 7, 2025)* 🎉  
+- **[YouTube Recommendation System](https://github.com/umang-dadhich/Youtube-Recommendation-System)** – *Jupyter Notebook* – **4 commits** *(Jul 8, 2025)*  
 - **[Bharat Warehouse AI Pilot](https://github.com/umang-dadhich/bharat-warehouse-ai-pilot)** – *TypeScript* – Initial build *(Jul 6, 2025)*  
 
 📌 *View more activity on my [GitHub contributions graph](https://github.com/umang-dadhich)*
